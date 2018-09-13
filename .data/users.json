@@ -5,28 +5,8 @@
     "password": "$2a$12$HrQ6uQ7lCAgz8Npn.3I35Oou4rLMQEjVxlRLJTSkRkgozzY.uTkr6"
   },
   {
-    "email": "Ola@jens.se",
+    "email": "jens@ola.se",
     "id": 1536666593651,
     "password": "$2a$12$5VD66uykcyisDkQkHmysWOEWTQtyyZ7JSbM7F.ne/TRABAo.Znluu"
-  },
-  {
-    "email": "Ola@jens.se",
-    "id": 1536667487478,
-    "password": "$2a$12$0T6ACnGXxsF8J0BVtkwt3.rY9IoYNoBY5lLT3Qcai2YH9OAjV453G"
-  },
-  {
-    "email": "Ola@jens.se",
-    "id": 1536667523565,
-    "password": "$2a$12$Jt9LRxrR5DgBQwcR3gw8HeSCsrw6b9woWswpRqtd7wG1P4Knhx8/6"
-  },
-  {
-    "email": "Ola@jens.se",
-    "id": 1536667525624,
-    "password": "$2a$12$fwThdQGDvi/5BV8sFt/2u.9/R6UshZxrnK3kUDiaHXOdBUn1wDdn2"
-  },
-  {
-    "email": "Ola@jens.se",
-    "id": 1536667527131,
-    "password": "$2a$12$PAfFWMH10JW8BClRDIrnfOPgRLAPx/vBAwTa6aK9jeW3m5eJZtPrm"
   }
 ]
